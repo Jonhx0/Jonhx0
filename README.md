@@ -23,5 +23,6 @@
  
  <div>
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=jonathanmartins&show_icons=true" alt="GitHub Status"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jonathanmartins&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Languages I program." height="192px"  width="500px"/>
+   
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jonathanmartins&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Languages I program."/>
 </div>
