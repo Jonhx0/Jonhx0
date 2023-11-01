@@ -16,8 +16,6 @@
 - 😻 Ask me about: HTML, CSS, JS, RPG, Storytelling & Narrative, and Games.
 
 - 😽 Fun fact: Yes, I'm a DM (Dungeon Master), to the despair of many. Don't create Paladins, and don't ask me why. Just no.
-  
-- 🙀 Fun fact²: I have a total of eighteen cats. Don't ask me why. But I love cats.
 
  ##  GitHub Status
  
